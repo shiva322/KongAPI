@@ -14,7 +14,7 @@ https://github.com/shiva322/KongAPIGateway-Starbucks/wiki/Setting-up-Kong-Server
 
 Step 3 :<br />
 a) Create routes for different tenants<br />
-https://github.com/shiva322/KongAPIGateway-Starbucks/wiki/API-Configuration
+https://github.com/shiva322/KongAPIGateway-Starbucks/wiki/API-Route-Configuration
 
 Step 4 :<br />
 a) Create Consumers<br />
