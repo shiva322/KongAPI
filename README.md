@@ -3,8 +3,8 @@
 This is a repository tracking the API gateway developed for a Starbucks REST based Application.
 
 Step 1 : <br />
-a) Setup the Single Node Cassandra Database<br />
-b) Add more nodes in cluster<br />
+a) Setup single node Cassandra Database<br />
+b) Add more nodes to cluster<br />
 https://github.com/shiva322/KongAPIGateway-Starbucks/wiki/Setting-up-Cassandra-DB-Cluster
 
 Step 2 :<br />
